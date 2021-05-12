@@ -1,4 +1,4 @@
 # ALTER-FACE
 
 
-will be documanting it very soon.
+will be documenting it very soon.
